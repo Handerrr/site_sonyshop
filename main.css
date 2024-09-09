@@ -139,7 +139,7 @@ input:focus, textarea:focus {
 }
 
 footer {
-    outline-color:#182c61;
-    color:#074555;
+    background-color: #1146d8;
+    color:#ecf0f1;
     padding:16px 0;
 }
